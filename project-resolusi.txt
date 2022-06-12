@@ -1,6 +1,6 @@
 project resolusi
 - saya mau konsiten belajar html css dan javascript
 - membuat ui/ux untuk project pengembangan diri
-- membuat ujian untuk testing diri hasil pembelajaran
 - kedepannya mau membuat project untuk perusahaan
 - kedepannya mau membangun perusahaan sendiri
+- membaut testing aplikasi
